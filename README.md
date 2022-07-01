@@ -1,6 +1,10 @@
 # qb-menu-css-edit
 This is an Qb Menu CSS EDIT For QBCore
 
+Just go To Qb-menu 
+Delete The Html Folder 
+Drop this html Folder in Its Place <3 Enjoy Drop a like 
+
 
 Screen SHots 
 1) ![image](https://user-images.githubusercontent.com/69292814/176897238-7e53ac0b-6a33-4525-a2c6-f3e751b5c2cb.png)
